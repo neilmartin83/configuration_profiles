@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>edu.psu.macoslaps</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>DaysTillExpiration</key>
+								<integer>30</integer>
+								<key>ExclusionSets</key>
+								<array>
+									<string>symbols</string>
+								</array>
+								<key>LocalAdminAccount</key>
+								<string>ladmin</string>
+								<key>PasswordLength</key>
+								<integer>14</integer>
+								<key>RemoveKeyChain</key>
+								<true/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Custom</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>44D6089D-A122-45AC-827C-C09F7F35DFCC</string>
+			<key>PayloadOrganization</key>
+			<string>University of East London</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>44D6089D-A122-45AC-827C-C09F7F35DFCC</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string></string>
+	<key>PayloadDisplayName</key>
+	<string>macOS LAPS - Defaults</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>B88B9C8D-72B7-4DA7-9893-489A9A52C504</string>
+	<key>PayloadOrganization</key>
+	<string>Your Organisation</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>B88B9C8D-72B7-4DA7-9893-489A9A52C504</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
