@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>menu.nomad.shares</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>HomeMount</key>
+								<dict>
+									<key>Groups</key>
+									<array>
+										<string>All</string>
+									</array>
+									<key>Mount</key>
+									<true/>
+									<key>Options</key>
+									<array/>
+								</dict>
+								<key>Shares</key>
+								<array>
+									<dict>
+										<key>AutoMount</key>
+										<true/>
+										<key>ConnectedOnly</key>
+										<true/>
+										<key>Groups</key>
+										<array>
+											<string>AD_GROUP_1_NAME</string>
+											<string>AD_GROUP_2_NAME</string>
+											<string>AD_GROUP_3_NAME</string>
+										</array>
+										<key>LocalMount</key>
+										<string></string>
+										<key>Name</key>
+										<string>Display Name of Share 1 - automount</string>
+										<key>Options</key>
+										<array/>
+										<key>URL</key>
+										<string>smb://server.your.org/share1</string>
+									</dict>
+									<dict>
+										<key>AutoMount</key>
+										<false/>
+										<key>ConnectedOnly</key>
+										<true/>
+										<key>Groups</key>
+										<array>
+											<string>AD_GROUP_4_NAME</string>
+											<string>AD_GROUP_5_NAME</string>
+											<string>AD_GROUP_6_NAME</string>
+										</array>
+										<key>LocalMount</key>
+										<string></string>
+										<key>Name</key>
+										<string>Display Name of Share 2 - manual mount</string>
+										<key>Options</key>
+										<array/>
+										<key>URL</key>
+										<string>smb://server.your.org/share2</string>
+									</dict>
+								</array>
+								<key>Version</key>
+								<string>1</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Custom</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>2DB07BEE-FE4F-47D3-B15C-72A688C3B72F</string>
+			<key>PayloadOrganization</key>
+			<string>Your Organisation</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>2DB07BEE-FE4F-47D3-B15C-72A688C3B72F</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string></string>
+	<key>PayloadDisplayName</key>
+	<string>Trusource Labs NoMAD - Network Shares</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>711C567D-1090-4153-A201-AC198F3B69B5</string>
+	<key>PayloadOrganization</key>
+	<string>Your Organisation</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>711C567D-1090-4153-A201-AC198F3B69B5</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
