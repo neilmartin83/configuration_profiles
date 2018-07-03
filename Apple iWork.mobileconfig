@@ -7,40 +7,6 @@
 		<dict>
 			<key>PayloadContent</key>
 			<dict>
-				<key>com.apple.iWork.Keynote</key>
-				<dict>
-					<key>Forced</key>
-					<array>
-						<dict>
-							<key>mcx_preference_settings</key>
-							<dict>
-								<key>TMAFirstLaunchVersion</key>
-								<integer>99999</integer>
-							</dict>
-						</dict>
-					</array>
-				</dict>
-			</dict>
-			<key>PayloadDescription</key>
-			<string></string>
-			<key>PayloadDisplayName</key>
-			<string>Custom</string>
-			<key>PayloadEnabled</key>
-			<true/>
-			<key>PayloadIdentifier</key>
-			<string>5678A6F7-22F5-4A5D-8390-84D323734756</string>
-			<key>PayloadOrganization</key>
-			<string>Your Organisation</string>
-			<key>PayloadType</key>
-			<string>com.apple.ManagedClient.preferences</string>
-			<key>PayloadUUID</key>
-			<string>5678A6F7-22F5-4A5D-8390-84D323734756</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>PayloadContent</key>
-			<dict>
 				<key>com.apple.iWork.Numbers</key>
 				<dict>
 					<key>Forced</key>
@@ -50,6 +16,8 @@
 							<dict>
 								<key>TMAFirstLaunchVersion</key>
 								<integer>99999</integer>
+								<key>TSURemoteDefaultsNextUpdate</key>
+								<date>2099-06-16T08:15:09Z</date>
 							</dict>
 						</dict>
 					</array>
@@ -62,13 +30,13 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>8344896B-E63E-4B91-89DD-BD17FE47631A</string>
+			<string>7FB5589D-D6C9-4DBF-B973-5B717185BC17</string>
 			<key>PayloadOrganization</key>
-			<string>Your Organisation</string>
+			<string>University of East London</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>8344896B-E63E-4B91-89DD-BD17FE47631A</string>
+			<string>7FB5589D-D6C9-4DBF-B973-5B717185BC17</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
@@ -84,6 +52,8 @@
 							<dict>
 								<key>TMAFirstLaunchVersion</key>
 								<integer>99999</integer>
+								<key>TSURemoteDefaultsNextUpdate</key>
+								<date>2099-06-16T08:15:09Z</date>
 							</dict>
 						</dict>
 					</array>
@@ -96,13 +66,49 @@
 			<key>PayloadEnabled</key>
 			<true/>
 			<key>PayloadIdentifier</key>
-			<string>C5452D5E-893C-4D8C-A3AA-91DD4B077E0F</string>
+			<string>DA4C4199-DE82-42C0-8438-20858E0E3E6B</string>
+			<key>PayloadOrganization</key>
+			<string>University of East London</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>DA4C4199-DE82-42C0-8438-20858E0E3E6B</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.apple.iWork.Keynote</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>TMAFirstLaunchVersion</key>
+								<integer>99999</integer>
+								<key>TSURemoteDefaultsNextUpdate</key>
+								<date>2099-06-16T08:15:09Z</date>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Custom</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>D83400F7-41FD-4B6E-9AF5-ED93E1B5594D</string>
 			<key>PayloadOrganization</key>
 			<string>Your Organisation</string>
 			<key>PayloadType</key>
 			<string>com.apple.ManagedClient.preferences</string>
 			<key>PayloadUUID</key>
-			<string>C5452D5E-893C-4D8C-A3AA-91DD4B077E0F</string>
+			<string>D83400F7-41FD-4B6E-9AF5-ED93E1B5594D</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 		</dict>
