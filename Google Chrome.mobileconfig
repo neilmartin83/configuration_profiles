@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.google.Chrome</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>DefaultBrowserSettingEnabled</key>
+								<false/>
+								<key>DefaultNotificationsSetting</key>
+								<integer>2</integer>
+								<key>DisablePrintPreview</key>
+								<true/>
+								<key>HomepageIsNewTabPage</key>
+								<false/>
+								<key>HomepageLocation</key>
+								<string>https://www.yourhomepage.com</string>
+								<key>ImportAutofillFormData</key>
+								<false/>
+								<key>ImportBookmarks</key>
+								<false/>
+								<key>ImportHistory</key>
+								<false/>
+								<key>ImportHomepage</key>
+								<false/>
+								<key>ImportSavedPasswords</key>
+								<false/>
+								<key>ImportSearchEngine</key>
+								<false/>
+								<key>MetricsReportingEnabled</key>
+								<false/>
+								<key>RestoreOnStartup</key>
+								<integer>4</integer>
+								<key>RestoreOnStartupURLs</key>
+								<array>
+									<string>https://www.yourhomepage.com</string>
+								</array>
+								<key>WelcomePageOnOSUpgradeEnabled</key>
+								<false/>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Custom</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>C971004A-E1DA-4D9F-BFCD-A9B06110EC37</string>
+			<key>PayloadOrganization</key>
+			<string>Your Organisation</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>C971004A-E1DA-4D9F-BFCD-A9B06110EC37</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string></string>
+	<key>PayloadDisplayName</key>
+	<string>Chrome - Defaults - Students</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>623063C1-1058-482C-9A9A-237DD7F8194A</string>
+	<key>PayloadOrganization</key>
+	<string>Your Organisation</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>623063C1-1058-482C-9A9A-237DD7F8194A</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
