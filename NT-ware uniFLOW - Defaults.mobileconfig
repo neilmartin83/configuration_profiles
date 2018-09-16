@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>PayloadContent</key>
+			<dict>
+				<key>com.NT-Ware.UniFLOWMacClient</key>
+				<dict>
+					<key>Forced</key>
+					<array>
+						<dict>
+							<key>mcx_preference_settings</key>
+							<dict>
+								<key>LogFileName</key>
+								<string></string>
+								<key>LogonNoName</key>
+								<false/>
+								<key>PopupForEveryJob</key>
+								<false/>
+								<key>Reditect</key>
+								<true/>
+								<key>ServerName</key>
+								<string>youruniflowserver.yourorg.com:8443</string>
+								<key>TEST</key>
+								<string>anyUser</string>
+								<key>UserName</key>
+								<string>%u</string>
+							</dict>
+						</dict>
+					</array>
+				</dict>
+			</dict>
+			<key>PayloadDescription</key>
+			<string></string>
+			<key>PayloadDisplayName</key>
+			<string>Custom</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>89FE92A5-9C1C-4502-8A95-36938CEC7056</string>
+			<key>PayloadOrganization</key>
+			<string>Your Organisation</string>
+			<key>PayloadType</key>
+			<string>com.apple.ManagedClient.preferences</string>
+			<key>PayloadUUID</key>
+			<string>89FE92A5-9C1C-4502-8A95-36938CEC7056</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string></string>
+	<key>PayloadDisplayName</key>
+	<string>NT-ware uniFLOW - Defaults</string>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>4A75E997-FB7D-40D9-851F-63914F6BF559</string>
+	<key>PayloadOrganization</key>
+	<string>Your Organisation</string>
+	<key>PayloadRemovalDisallowed</key>
+	<true/>
+	<key>PayloadScope</key>
+	<string>System</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>4A75E997-FB7D-40D9-851F-63914F6BF559</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
