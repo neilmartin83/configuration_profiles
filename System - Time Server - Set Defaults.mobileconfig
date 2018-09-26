@@ -42,7 +42,7 @@
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>System - Time Server - UEL</string>
+	<string>System - Time Server - Set Defaults</string>
 	<key>PayloadEnabled</key>
 	<true/>
 	<key>PayloadIdentifier</key>
