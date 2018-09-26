@@ -42,7 +42,7 @@
 	<key>PayloadDescription</key>
 	<string></string>
 	<key>PayloadDisplayName</key>
-	<string>System - Finder - Disable Reopen Windows</string>
+	<string>System - Login Window - Disable Reopen Windows</string>
 	<key>PayloadEnabled</key>
 	<true/>
 	<key>PayloadIdentifier</key>
